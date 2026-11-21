@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# News image for 2026-11-20 - revised version 2
 """
 News image entry for 2026-11-20.
 Generates a PNG summarizing world news for November 20, 2026.
